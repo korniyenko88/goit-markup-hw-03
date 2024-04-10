@@ -10,7 +10,7 @@ body {
 }
 
 .haeder-nav { display: flex;}
-#container {
+.container {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
@@ -61,6 +61,7 @@ img{display: block;}
 .addres-nav {
   display: flex;
   gap: 40px;
+  
 }
 .address {
   font-style: normal;
