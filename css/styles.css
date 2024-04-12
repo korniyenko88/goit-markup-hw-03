@@ -149,7 +149,7 @@ ul {
   gap: 24px;
 }
 
-.text-list{width: calc((100% - 72px) / 4);}
+.text-list{width: calc((100% - 3*24px) / 4);}
   
 
 
@@ -160,7 +160,7 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  text-align: justify;
+  
 }
 
 
