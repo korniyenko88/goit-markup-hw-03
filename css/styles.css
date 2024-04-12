@@ -149,9 +149,11 @@ ul {
   gap: 24px;
 }
 
-.text-list {
-  width: calc((100% - 72px) / 4);
+.text-list{
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
+  
+
 
 .title-list {
   font-weight: 500;
@@ -160,7 +162,7 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
   margin-bottom: 8px;
-  text-align: center;
+  text-align: justify;
 }
 
 
