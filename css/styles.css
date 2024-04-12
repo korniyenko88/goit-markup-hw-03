@@ -122,7 +122,8 @@ ul {
 /* початок другої секції*/
 
 .section-two {
-  padding: 120px 0;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .visually-hidden {
   position: absolute;
@@ -144,12 +145,15 @@ ul {
   color: #2e2f42;
 }
 
-.features-list {
+.feattures-list {
   display: flex;
   gap: 24px;
 }
 
-.text-list{width: calc((100% - 3*24px) / 4);}
+
+.text-list{width: calc((100% - 72px) / 4);}
+
+
   
 
 
