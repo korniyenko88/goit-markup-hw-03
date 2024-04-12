@@ -149,7 +149,7 @@ ul {
   gap: 24px;
 }
 
-.feauttures-li {
+.text-list {
   width: calc((100% - 72px) / 4);
 }
 
