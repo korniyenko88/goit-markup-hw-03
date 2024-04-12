@@ -9,7 +9,9 @@ body {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.haeder-nav { display: flex;}
+.haeder-nav {
+  display: flex;
+}
 .container {
   width: 1158px;
   margin: 0 auto;
@@ -21,7 +23,9 @@ body {
   align-items: center;
 }
 
-img{display: block;}
+img {
+  display: block;
+}
 .nav-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -32,7 +36,6 @@ img{display: block;}
   color: #4d5ae5;
   text-decoration: none;
   margin-right: 76px;
-
 }
 
 .nav-menu {
@@ -61,7 +64,6 @@ img{display: block;}
 .addres-nav {
   display: flex;
   gap: 40px;
-  
 }
 .address {
   font-style: normal;
@@ -85,7 +87,6 @@ ul {
 .section-one {
   padding: 188px 0;
 }
-
 
 .button:focus {
   background-color: #404bbf;
@@ -120,7 +121,7 @@ ul {
 }
 /* початок другої секції*/
 
-.section-two { 
+.section-two {
   padding: 120px 0;
 }
 .visually-hidden {
@@ -130,7 +131,7 @@ ul {
   margin: -1px;
   border: 0;
   padding: 0;
-  
+
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -149,16 +150,13 @@ ul {
 }
 
 .feauttures-li {
-  width:calc((100% - 3 * 24px) / 4);
-
-
+  width: calc ((100% - 3 * 24px) / 4);
 }
 
 .p-features {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
 }
 
 /*початок третьої секції*/
@@ -171,7 +169,6 @@ ul {
   margin-bottom: 8px;
   text-align: center;
   margin-bottom: 8px;
-  
 }
 .p-ourteam {
   font-size: 16px;
@@ -180,9 +177,7 @@ ul {
   text-align: center;
 }
 
-
-
-.section-three{
+.section-three {
   padding: 120px 0;
 }
 .our-team {
@@ -197,18 +192,18 @@ ul {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-.ourteam-list{
+.ourteam-list {
   display: flex;
   gap: 24px;
 }
 
 .ul-our-team {
   background-color: #ffffff;
-  width: calc((100% - 72px) / 4);
+  width: calc ((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 
-.name-position { 
+.name-position {
   padding: 32px 0;
 }
 
@@ -233,11 +228,10 @@ ul {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  
 }
 
 .ul-portfolio {
-  width: calc((100% - 48px) / 3);
+  width: calc ((100% - 48px) / 3);
 }
 
 .prtfolio-name {
