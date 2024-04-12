@@ -149,9 +149,11 @@ ul {
   gap: 24px;
 }
 
-.feattures-item {
+.feauttures-li {
   width: calc((100% - 72px) / 4);
 }
+
+
 
 .p-features {
   font-size: 16px;
