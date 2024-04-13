@@ -160,10 +160,10 @@ ul {
 }
 
 
-.section-one-item {
-  display-flex;
-  width: calc ((100% - 3 * 24px) / 4);}
-
+.section-one-item:first-child {
+  display: flex;
+  width: calc((100% - 3 * 24px) / 4);
+}
   
 
 
