@@ -161,6 +161,7 @@ ul {
 
 
 .section-one-item {
+  display-flex;
   width: calc ((100% - 3 * 24px) / 4);}
 
   
