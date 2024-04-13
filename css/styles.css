@@ -128,8 +128,10 @@ ul {
 }
 /* початок другої секції*/
 
-.section-two {padding: 120px 0;
+.section-two {
+  padding: 120px 0;
 }
+
 
 .title-features {
   font-size: 20px;
@@ -254,7 +256,7 @@ ul {
 }
 
 .ul-portfolio {
-  width: calc ((100% - 48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 .prtfolio-name {
