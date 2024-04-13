@@ -17,9 +17,10 @@ body {
 
 .haeder-nav {
   display: flex;
+  align-items: center;
 }
 .container {
-  width: 1158px;
+  max-width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -159,7 +160,6 @@ ul {
 
 .section-one-item {
   width: calc((100% - 3 * 24px) / 4);
-
 }
 
 
