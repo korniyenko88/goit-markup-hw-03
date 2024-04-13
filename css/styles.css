@@ -121,9 +121,8 @@ ul {
 }
 /* початок другої секції*/
 
-.section-two {
-  padding-top: 120px;
-  padding-bottom: 120px;
+.section-two {padding: 120px 0;
+  
 }
 .visually-hidden {
   position: absolute;
