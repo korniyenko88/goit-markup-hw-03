@@ -151,7 +151,7 @@ ul {
   overflow: hidden;
 }
 
-.feattures-list {
+.features-list {
   display: flex;
   gap: 24px;
 }
@@ -181,8 +181,7 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-
+} 
 /*початок третьої секції*/
 .our-teamname {
   font-weight: 500;
