@@ -151,7 +151,7 @@ ul {
 }
 
 
-.text-list{width: 1128px}
+.text-list{width: calc(100% - 3 * 24px) / 4;}
 
 
   
