@@ -281,7 +281,7 @@ ul {
 
 /*початок футера*/
 
-footer {
+.bottom-page {
   background-color: #2e2f42;
   padding: 100px 0;
 }
@@ -303,7 +303,7 @@ footer {
   color: #f4f4fd;
 }
 
-.footer-p {
+.bottom-text {
   color: #f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.02em;
