@@ -157,11 +157,14 @@ ul {
 .features-list {
   display: flex;
   gap: 24px;
+  margin: 0;
+  padding: 0;
+  
 }
 
 
 .section-one-item {
-  flex-basis: calc((100% - 3 * 24px) / 4)
+  width: calc((100% - 72px) / 4);
 }
   
 
