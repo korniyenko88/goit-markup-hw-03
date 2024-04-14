@@ -15,7 +15,7 @@ body {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.haeder-nav {
+.header-nav {
   display: flex;
   align-items: center;
 }
@@ -215,7 +215,7 @@ ul {
   color: #2e2f42;
   margin-bottom: 72px;
 }
-.ourteam-list {
+.our-team-list {
   display: flex;
   gap: 24px;
 }
@@ -257,7 +257,7 @@ ul {
   width: calc ((100% - 2 * 24px) / 3);
 }
 
-.prtfolio-name {
+.portfolio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -266,7 +266,7 @@ ul {
   margin-bottom: 8px;
 }
 
-.prtfolio-text {
+.portfolio-text {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
